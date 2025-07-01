@@ -1,2 +1,3 @@
-# Diabetes-Predictor
-A machine learning web app to predict diabetes using real patient metrics. Built with Python, Pandas, Scikit-learn.
+# 🩺 Diabetes Predictor
+
+A machine learning web app using Streamlit to predict the likelihood of diabetes based on health parameters.
